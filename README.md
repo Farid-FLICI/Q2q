@@ -7,11 +7,8 @@ Mortality Rates are usually published following an abridged description, i.e., b
 
 ## Installation
 
-You can install the released version of Q2q from [CRAN](https://CRAN.R-project.org) with:
+You can install the released version of Q2q from [github](https://github.com/Farid-FLICI/Q2q/blob/master/Q2q_0.1.0.tar.gz) with:
 
-``` {r, include=TRUE, echo=TRUE }
-#install.packages("Q2q")
-```
 ## Functions
 
 The package `Q2q` provides two functions `getqxt()` and `getqx()`.
