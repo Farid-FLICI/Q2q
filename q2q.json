@@ -1,0 +1,11 @@
+{
+  "name": "q2q",
+  "version": "1.0.0",
+"author": "Farid FLICI",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+}
+
+
+
+
+
