@@ -1,0 +1,25 @@
+{
+  "name": "q2q",
+  "version": "1.0.0",
+  "description": "An R package for interpolating Age-Specific Mortality Rates at all ages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Farid-FLICI/Q2q.git"
+  },
+  "keywords": [
+    "Mortality;",
+    "Interpolation",
+    "Karup-King",
+    "Lagrange"
+  ],
+  "author": "Farid FLICI",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/Farid-FLICI/Q2q/issues"
+  },
+  "homepage": "https://github.com/Farid-FLICI/Q2q#readme"
+}
