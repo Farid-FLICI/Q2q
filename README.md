@@ -1,7 +1,3 @@
-
-<!-- README.md is generated from README.Rmd. Please edit that file -->
-<style> body {text-align: justify} </style>
-
 # Q2q: an R Package for Interpolating Age-Specific Mortality Rates at all Ages
 
 ## Description
